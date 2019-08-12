@@ -1,0 +1,9 @@
+{
+  "projectId": "5wayxv",
+  "baseUrl": "https://the-internet.herokuapp.com",
+  "reporter": "cypress-multi-reporters",
+  "reporterOptions": {
+    "configFile": "reporterConfig.json"
+  }
+
+}
